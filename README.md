@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Research Synthesizer
 
 This project is an AI-powered research assistant that can gather, process, and synthesize information on any given topic, leveraging the Llama 3 70B Instruct model through NVIDIA's API and the LangChain framework.
@@ -44,3 +45,6 @@ Enter a research topic when prompted. The system will gather information, proces
 ## Note
 
 This project uses the NVIDIA API and requires a valid API key to function. Ensure you have the necessary permissions and credits to use the API.
+=======
+# AI-Research-Synthesizer
+>>>>>>> 8f0c1397b3a5ae712e83ff422ae2a453374af4a4
